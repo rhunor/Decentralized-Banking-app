@@ -21,3 +21,4 @@ Run dfx deploy to deploy the canisters
 Access the app from the deployed URL
 Contributors
 john rhunor
+run npm i
